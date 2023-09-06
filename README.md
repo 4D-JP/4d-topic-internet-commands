@@ -3,6 +3,6 @@
 
 `otool -l`
 
-||version|i386|x64|arm|
+||4D version|i386|x64|arm|
 |:-:|:-:|:-:|:-:|:-:|
 |sdk|v15|10.6|||
